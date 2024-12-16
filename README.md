@@ -1,18 +1,19 @@
 # 32Bit_CPU_Arm
 
 This CPU executes instruction in a single cycle 
-![image](https://github.com/user-attachments/assets/ca71af48-33f2-47fb-8b64-c081665d8cbc)
+![image](https://github.com/user-attachments/assets/ad9af12b-a7de-4c93-85e1-f4ef6d9bbccb)
 
-![CPU_DataPath](https://github.com/user-attachments/assets/4fc1c782-a568-4070-a983-9d2837c0c056)
+![image](https://github.com/user-attachments/assets/0e9a089b-92c6-4732-ad71-c48dde28f543)
 
-![image](https://github.com/user-attachments/assets/4acf81b7-c001-4273-8c29-fe417394e43e)
+![Screenshot 2024-12-16 214011](https://github.com/user-attachments/assets/31b3fe5b-c1b4-479f-89cd-07ae0ff1e9d5)
 (Reference[1])
 
 
 
 Adhoc Test Code
-![image](https://github.com/user-attachments/assets/f512f1be-92d4-4b39-b79c-0eb2eb9bba84)
-![image](https://github.com/user-attachments/assets/81b66502-bf11-476d-81e1-d32c340ea385)
+![image](https://github.com/user-attachments/assets/6945545e-6d08-4a90-b519-48c9e8997935)
+![image](https://github.com/user-attachments/assets/ec63af37-e812-4425-b5d3-cfba86c31f3a)
+
 
 
 Reference Book:[1] Digital Design and Computer Architecture ARM Edition - Sarah L. Harris & David Money Harris
